@@ -1,2 +1,4 @@
-# java-webdriver-bear-team
-The educational project of the Bear Team
+# java-webdriver-cucumber
+
+Base framework for Java Webdriver automation with Cucumber
+
