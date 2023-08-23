@@ -43,7 +43,7 @@ public class PalindromeChecker {
     }
 
     public static boolean isPalindrome(String str) {
-        // TODO: Implement this method
+        // TODO: Implement this methods
         return false;
     }
 }
